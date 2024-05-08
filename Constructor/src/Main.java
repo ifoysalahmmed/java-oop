@@ -29,7 +29,7 @@ class Student {
     }
 }
 
-public class OOPs {
+public class Main {
     public static void main(String[] args) {
         // non-parameterized constructor
 //        Student student = new Student();
